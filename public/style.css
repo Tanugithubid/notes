@@ -1,0 +1,50 @@
+.text,textarea{
+    width: 100%;
+    margin: 4px;
+    background-color: rgb(173, 119, 119);
+   
+}
+.form{
+    margin: 4px;
+    margin-top: 10px;
+}
+.submit{
+background-color: blue;
+border-radius: 5%;
+width: 8%;
+height: 8%;
+margin: 10px;
+}
+.task{
+   
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    /* border: 1px solid white; */
+    /* background-color: rgb(239, 177, 177); */
+}
+.task1{
+    background-color: #3c3838;
+            width: 300px;
+            height: 100px;
+            margin: 10px;
+            text-align: center;
+            /* font-size: 40px; */
+            color: aliceblue;
+          text-align: center;
+            justify-content: center;
+}
+.read{
+    color: blue;
+    font-size: small;
+    margin-top: 0px;
+}
+.write{
+    font-size: medium;
+    margin-top: 10px;
+    text-align: center;
+}
+.orCase{
+    color: antiquewhite;
+    margin-left: 10px;
+}

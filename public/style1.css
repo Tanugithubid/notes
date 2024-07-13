@@ -1,0 +1,17 @@
+.text,.textarea{
+    width: 100%;
+    margin: 4px;
+    background-color: rgb(43, 40, 40);
+   
+}
+.form{
+    margin: 4px;
+    margin-top: 10px;
+}
+.submit{
+background-color: blue;
+border-radius: 5%;
+width: 8%;
+height: 8%;
+margin: 10px;
+}
